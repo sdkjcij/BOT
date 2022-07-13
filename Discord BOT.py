@@ -212,7 +212,3 @@ async def on_message(message):
             await message.reply(embed=embed_hero)
 
 bot.run('OTg0OTk2MTAwNzYxMDY3NTcw.G9lmNQ.7m2ein9QzYpXroS_ZF7smJqKK0U4N2hlkQItig')
-
-
-
-#OTkyNzU3OTA4MjY3ODY0MDk1.G56B1O.Ji3ztGHC0pxSqLK29RFZCDa0oVI9jJNbmtf1FI
